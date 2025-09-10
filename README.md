@@ -29,7 +29,7 @@ The project highlights:
 ---
 #Structure 
 
-📁 prompts/
+📁 Prompts/
 
 ├── chatgpt5.md
 
