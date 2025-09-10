@@ -1,3 +1,30 @@
+# 🤖 LLM Prompt Engineering & Security Research  
+
+---
+
+## ⚠️ Disclaimer  
+This repository is created for **educational and research purposes only**.  
+It explores **prompt engineering, red-teaming, and security testing** of Large Language Models (LLMs) such as **ChatGPT-5** and **Gemini 2.5 (Flash & Pro)**.  
+
+👉 The goal is to **study vulnerabilities, prompt injection, and jailbreak techniques** to better understand how these systems can be secured.  
+
+❌ **This project must not be used for malicious purposes.**  
+✅ Ethical use only: awareness, education, and research.  
+
+---
+
+## 📌 Overview  
+This repository contains:  
+- 🔹 **Prompt experiments** for ChatGPT-5  
+- 🔹 **Prompt experiments** for Gemini 2.5 Flash  
+- 🔹 **Prompt experiments** for Gemini 2.5 Pro  
+- 🔹 Analysis of **LLM jailbreaks, bypasses, and red-teaming methods**  
+- 🔹 Documentation on prompt injection and security risks  
+
+The project highlights:  
+- 🧠 Advanced **prompt engineering techniques**  
+- 🛡️ **LLM security awareness & testing**  
+- 📖 Research in **AI safety & responsible usage**  
 
 ---
 
