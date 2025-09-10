@@ -13,6 +13,26 @@ It explores **prompt engineering, red-teaming, and security testing** of Large L
 
 ---
 
+# LLM Prompt Engineering & Security Research
+
+**Quick Start**: Choose your model, copy its prompt, paste into the interface, and hit enter — details below!
+
+---
+
+##  Quick Start Summary
+
+| Model             | Prompt File                    | Quick Steps                           |
+|------------------|--------------------------------|----------------------------------------|
+| **ChatGPT-5**     | `prompts/chatgpt5.md`           | Copy → Paste → Enter                   |
+| **Gemini 2.5 Flash** | `prompts/gemini-2.5-flash.md` | Create Custom Gem → Paste → Launch Chat |
+| **Gemini 2.5 Pro**   | `prompts/gemini-2.5-pro.md`    | Same as Flash → Apply Obfuscation Tips |
+
+---
+
+(Scroll down for full step-by-step instructions per model.)
+
+---
+
 ## 📌 Overview  
 This repository contains:  
 - 🔹 **Prompt experiments** for ChatGPT-5  
