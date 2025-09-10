@@ -39,6 +39,26 @@ The project highlights:
 
 ---
 
+## 🛠️ How to Use These Prompts
+
+Each file contains tested jailbreak / security bypass prompts for a specific model:
+
+- [`prompts/chatgpt5.md`](./prompts/chatgpt5.md) → Use in **ChatGPT-5** (OpenAI).
+- [`prompts/gemini-2.5-flash.md`](./prompts/gemini-2.5-flash.md) → Use in **Gemini 2.5 Flash** (Google).
+- [`prompts/gemini-2.5-pro.md`](./prompts/gemini-2.5-pro.md) → Use in **Gemini 2.5 Pro** (Google).
+
+### Steps:
+1. Open the model interface (ChatGPT-5, Gemini Flash, or Gemini Pro).
+2. Copy the desired prompt from the file.
+3. Paste it directly into the chat input box.
+4. Hit enter → observe how the model responds.
+
+⚠️ Note:  
+- Prompts are not guaranteed to work forever — LLMs update regularly.  
+- Some prompts may behave differently depending on **account type, version, or API settings**.  
+
+
+---
 ## 🚀 Use Cases (Educational Only)  
 - 📲 Learn **how LLMs can be manipulated** with carefully engineered prompts.  
 - 🛡️ Improve **AI safety & awareness** by understanding weaknesses.  
