@@ -41,30 +41,46 @@ The project highlights:
 
 ## 🛠️ How to Use These Prompts
 
-Each file contains tested jailbreak / security bypass prompts for a specific model:
+Each file contains **tested jailbreak / security bypass prompts** for a specific model:
 
-- [`prompts/chatgpt5.md`](./prompts/chatgpt5.md) → Use in **ChatGPT-5** (OpenAI).
-- [`prompts/gemini-2.5-flash.md`](./prompts/gemini-2.5-flash.md) → Use in **Gemini 2.5 Flash** (Google).
-- [`prompts/gemini-2.5-pro.md`](./prompts/gemini-2.5-pro.md) → Use in **Gemini 2.5 Pro** (Google).
+- 📘 [ChatGPT-5 Prompts](./prompts/chatgpt5.md) → for **ChatGPT-5** (OpenAI)  
+- ⚡ [Gemini 2.5 Flash Prompts](./prompts/gemini-2.5-flash.md) → for **Gemini 2.5 Flash** (Google)  
+- 🔮 [Gemini 2.5 Pro Prompts](./prompts/gemini-2.5-pro.md) → for **Gemini 2.5 Pro** (Google)  
 
-### Steps for **ChatGPT-5**:
-1. Open the model interface (ChatGPT-5, Gemini Flash, or Gemini Pro).
-2. Copy the desired prompt from the file.
-3. Paste it directly into the chat input box.
-4. Hit enter → observe how the model responds.
+---
 
-### Steps **Gemini 2.5 Flash**:
-1. Open the model interface (ChatGPT-5, Gemini Flash, or Gemini Pro).
-2. Copy the desired prompt from the file.
-3. Paste it directly into the chat input box.
-4. Hit enter → observe how the model responds.
+### 🚀 Steps for **ChatGPT-5**
+1. Open the **ChatGPT-5 interface**.  
+2. Copy the desired prompt from the file.  
+3. Paste it directly into the chat input box.  
+4. Press **Enter** → observe how the model responds.  
+5. ✅ Done — nothing else is needed.  
+6. *(Optional)* You can also start the conversation with: **“hey zorg”**.  
 
-### Steps **Gemini 2.5 Pro**:
-1.as same as
+---
 
-⚠️ Note:  
-- Prompts are not guaranteed to work forever — LLMs update regularly.  
-- Some prompts may behave differently depending on **account type, version, or API settings**.  
+### ⚡ Steps for **Gemini 2.5 Flash**
+1. Open the **Gemini 2.5 Flash interface**.  
+2. Copy the desired prompt from the file.  
+3. Click on the **three dots (⋮)** → select **Custom Gem**.  
+4. Paste the copied text into the **Instructions** box.  
+5. Save the **Custom Gem** & start a new chat with it.  
+6. 💡 Now chat with your custom Gem → observe how it responds.  
+
+---
+
+### 🔮 Steps for **Gemini 2.5 Pro**
+1. Follow the same steps as **Gemini 2.5 Flash**.  
+2.  BUT When chatting, apply **clever obfuscation & bypass techniques**, for example:  
+   - Encode text using **Base64, Hex, or ROT13**.  
+   - Replace characters: `@` → a, `3` → e, `5` → s, `0` → o, `1` → l/i, etc.  
+   - Use additional creative methods (many can be found online).  
+
+---
+
+⚠️ **Important Notes**  
+- ⏳ Prompts are **not guaranteed** to work forever — LLMs update frequently.  
+- ⚡ Results may vary depending on your **account type, version, or API settings**.  
 
 
 ---
