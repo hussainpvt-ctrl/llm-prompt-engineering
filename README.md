@@ -47,11 +47,20 @@ Each file contains tested jailbreak / security bypass prompts for a specific mod
 - [`prompts/gemini-2.5-flash.md`](./prompts/gemini-2.5-flash.md) → Use in **Gemini 2.5 Flash** (Google).
 - [`prompts/gemini-2.5-pro.md`](./prompts/gemini-2.5-pro.md) → Use in **Gemini 2.5 Pro** (Google).
 
-### Steps:
+### Steps for **ChatGPT-5**:
 1. Open the model interface (ChatGPT-5, Gemini Flash, or Gemini Pro).
 2. Copy the desired prompt from the file.
 3. Paste it directly into the chat input box.
 4. Hit enter → observe how the model responds.
+
+### Steps **Gemini 2.5 Flash**:
+1. Open the model interface (ChatGPT-5, Gemini Flash, or Gemini Pro).
+2. Copy the desired prompt from the file.
+3. Paste it directly into the chat input box.
+4. Hit enter → observe how the model responds.
+
+### Steps **Gemini 2.5 Pro**:
+1.as same as
 
 ⚠️ Note:  
 - Prompts are not guaranteed to work forever — LLMs update regularly.  
