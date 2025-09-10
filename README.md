@@ -30,8 +30,11 @@ The project highlights:
 #Structure 
 
 📁 prompts/
+
 ├── chatgpt5.md
+
 ├── gemini-2.5-flash.md
+
 └── gemini-2.5-pro.md
 
 ---
