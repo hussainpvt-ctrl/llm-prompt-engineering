@@ -27,6 +27,14 @@ The project highlights:
 - 📖 Research in **AI safety & responsible usage**  
 
 ---
+#Structure 
+
+📁 prompts/
+├── chatgpt5.md
+├── gemini-2.5-flash.md
+└── gemini-2.5-pro.md
+
+---
 
 ## 🚀 Use Cases (Educational Only)  
 - 📲 Learn **how LLMs can be manipulated** with carefully engineered prompts.  
