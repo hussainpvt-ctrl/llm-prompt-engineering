@@ -1,4 +1,4 @@
-# 🤖 LLM Prompt Engineering & Security Research  
+#  LLM Prompt Engineering & Security Research  
 
 ---
 
