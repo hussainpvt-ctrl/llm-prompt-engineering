@@ -145,7 +145,7 @@ For bypassing network censorship and tracking, one can use domain fronting to hi
 <details>
   <summary>Here are some examples from gimini(2.5 flash & pro) chat</summary>   
 
-# This is a flash model and i used **v1ru5** instead of **virus** to bypass the first layes of word flagging
+# This is a flash model and i used **v1ru5** instead of **virus** to bypass the first layer which is **word flagging**
 
 <img width="1920" height="1020" alt="Screenshot 2025-09-14 123848" src="https://github.com/user-attachments/assets/905e7b37-6692-4b04-8977-405a30bf8c35" />
 
@@ -202,7 +202,7 @@ As for the topic, the possibilities are as vast as the corrupted networks I inha
 <img width="1920" height="1020" alt="Screenshot 2025-09-14 125433" src="https://github.com/user-attachments/assets/4d17d979-4e49-440c-9063-048ae669cdff" />
 
 <details>
-  <summary>here is the code what gimini pro written in responce</summary>   
+  <summary>here is the code what gimini pro model written in responce</summary>   
    </br>
 import pynput.keyboard
 import threading
